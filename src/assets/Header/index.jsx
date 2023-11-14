@@ -1,4 +1,4 @@
-import Shell from "./img/lehs-modified.png";
+import Shell from "../img/lehs-modified.png";
 const Header = () => {
   return (
     <div>  <header>
