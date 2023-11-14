@@ -1,8 +1,9 @@
+import Shell from "./img/lehs-modified.png";
 const Header = () => {
   return (
     <div>  <header>
     <div>
-      <img src="/src/assets/img/lehs-modified.png" />
+      <img src={Shell} />
     </div>
     <h1>Shellyne Natasha Salainti</h1>
     <section>
